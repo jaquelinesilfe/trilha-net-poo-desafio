@@ -1,0 +1,30 @@
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\bin\Debug\net7.0\desafio-abstraindo-celular.exe
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\bin\Debug\net7.0\desafio-abstraindo-celular.deps.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\bin\Debug\net7.0\desafio-abstraindo-celular.runtimeconfig.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\bin\Debug\net7.0\desafio-abstraindo-celular.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\bin\Debug\net7.0\desafio-abstraindo-celular.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\desafio-abstraindo-celular.csproj.AssemblyReference.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\desafio-abstraindo-celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\desafio-abstraindo-celular.AssemblyInfoInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\desafio-abstraindo-celular.AssemblyInfo.cs
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\desafio-abstraindo-celular.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\desafio-abstraindo-celular.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\refint\desafio-abstraindo-celular.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\desafio-abstraindo-celular.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\desafio-abstraindo-celular.genruntimeconfig.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\Curso Pottencial .NET Developer\Projetos\Challenge\desafio-abstraindo-celular\obj\Debug\net7.0\ref\desafio-abstraindo-celular.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\bin\Debug\net7.0\desafio-abstraindo-celular.exe
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\bin\Debug\net7.0\desafio-abstraindo-celular.deps.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\bin\Debug\net7.0\desafio-abstraindo-celular.runtimeconfig.json
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\bin\Debug\net7.0\desafio-abstraindo-celular.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\bin\Debug\net7.0\desafio-abstraindo-celular.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\desafio-abstraindo-celular.csproj.AssemblyReference.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\desafio-abstraindo-celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\desafio-abstraindo-celular.AssemblyInfoInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\desafio-abstraindo-celular.AssemblyInfo.cs
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\desafio-abstraindo-celular.csproj.CoreCompileInputs.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\desafio-abstraindo-celular.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\refint\desafio-abstraindo-celular.dll
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\desafio-abstraindo-celular.pdb
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\desafio-abstraindo-celular.genruntimeconfig.cache
+C:\Users\jaque\Documents\PROJECTS\Projects .Net Dio\Curso Pontencial .NET\trilha-net-poo-desafio\obj\Debug\net7.0\ref\desafio-abstraindo-celular.dll
